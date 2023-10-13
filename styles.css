@@ -1,0 +1,33 @@
+nav >a {
+    padding: 35;
+    color: crimson;
+}
+
+h1 {
+    border: solid black;
+    width: 350;
+    background-color: blanchedalmond;
+    
+    
+}
+
+article section {
+    display: inline-block;
+    width: 300px;
+  height: 100px;
+  padding: 5px;
+  background-color: blanchedalmond; height: 200;
+  border: solid ;
+}
+
+p {
+    background-color: blanchedalmond;
+    border: solid;
+}
+
+img {
+    padding: 2;
+    border:solid
+    
+}
+
